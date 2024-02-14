@@ -1,0 +1,10 @@
+Present,Age,1
+Abks Smith,25,
+legend Johnson,30,
+John Doe,28,
+Mary Williams,22,
+Absent,Age,!
+David Jones,35,
+Sarah Brown,29,
+Michael Davis,32,
+Jennifer Miller,27,
